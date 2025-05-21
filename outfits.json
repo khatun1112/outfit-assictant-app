@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Summer Casual",
+    "description": "Light and comfortable for warm days",
+    "image": "/p2.jpg",
+    "tags": ["summer", "casual", "daytime"]
+  },
+  {
+    "id": "2",
+    "name": "Office Chic",
+    "description": "Professional but stylish for work",
+    "image": "/images.jfif",
+    "tags": ["work", "formal", "professional"]
+  },
+  {
+    "id": "3",
+    "name": "Evening Elegance",
+    "description": "Perfect for formal dinners or evening events",
+    "image": "/images (1).jfif",
+    "tags": ["evening", "formal", "elegant"]
+  },
+  {
+    "id": "4",
+    "name": "Winter Layers",
+    "description": "Warm and cozy for chilly days",
+    "image": "/weekend-outfit-ideas.jpg",
+    "tags": ["winter", "layered", "cozy"]
+  },
+  {
+    "id": "5",
+    "name": "Sporty Vibes",
+    "description": "Ideal for an active, on-the-go lifestyle",
+    "image": "/Cold_weather_outfit.jpg",
+    "tags": ["sporty", "casual", "comfortable"]
+  },
+  {
+    "id": "6",
+    "name": "Date Night",
+    "description": "Stylish and romantic outfit for a special evening",
+    "image": "/download.jfif",
+    "tags": ["romantic", "stylish", "evening"]
+  }
+]
